@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
+## Purpose
+The purpose of this application is to practise and demonstrate fundamental concepts in Angular 2+:
+- in-app navigation
+- data management, i.e. passing data from parent to child, and child to parent
+- reactive forms
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
